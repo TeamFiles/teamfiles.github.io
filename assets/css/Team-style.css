@@ -117,7 +117,7 @@ section {
   padding-bottom: 0;
   line-height: 1px;
   margin-bottom: 15px;
-  color: #c2b7b1;
+  color: #0099ffa1;
 }
 .section-title p {
   padding-bottom: 15px;
@@ -133,7 +133,7 @@ section {
   display: block;
   width: 60px;
   height: 2px;
-  background: #eb5d1e;
+  background: #0099ff;
   bottom: 0;
   left: calc(50% - 30px);
 }

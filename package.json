@@ -1,7 +1,7 @@
 {
-  "name": "foi-app-landing-page",
+  "name": "TeamFiles-landing-page",
   "version": "1.0.0",
-  "description": "Bootstrap 4 based FOI App Landing Page",
+  "description": "Bootstrap 4 based TeamFiles Landing Page",
   "main": "index.html",
   "scripts": {
     "start": "gulp watch",
