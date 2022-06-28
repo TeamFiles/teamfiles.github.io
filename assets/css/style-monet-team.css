@@ -8238,7 +8238,7 @@ button:focus {
   background-size: cover; }
   .foi-footer .footer-content {
     padding-bottom: 34px;
-    border-bottom: 1px solid rgba(240, 240, 240, 0.39); }
+    border-bottom: 0px solid rgb(230, 73, 18); }
   .foi-footer .footer-widget-area {
     padding-top: 70px; }
     .foi-footer .footer-widget-area p {
