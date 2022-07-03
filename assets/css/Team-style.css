@@ -119,6 +119,11 @@ section {
   margin-bottom: 15px;
   color: #0099ffa1;
 }
+
+.dark .section-title h2 {
+  color: #0099ff;
+}
+
 .section-title p {
   padding-bottom: 15px;
   margin-bottom: 15px;
@@ -483,7 +488,7 @@ section {
 # Team
 --------------------------------------------------------------*/
 .team {
-  background: #fff;
+  /*background: #fff;*/
   padding: 60px 0;
 }
 .team .member {
