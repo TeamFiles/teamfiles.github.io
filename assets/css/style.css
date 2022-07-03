@@ -1930,6 +1930,7 @@ fieldset:disabled a.btn {
 .about_img {
   height: 200px;
   width: 281px;
+  margin-left: 50px;
   background: url('../images/1.svg') no-repeat;
   float: right;
 }
